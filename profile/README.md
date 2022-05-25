@@ -15,5 +15,7 @@ Exempel:
 ```
 forsakringar-behovsguiden-frontend  
 forsakringar-behovsguiden-backend  
+forsakringar-behovsguiden-web  
+forsakringar-behovsguiden-api  
 knowit-bankid 
 ```
