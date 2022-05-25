@@ -5,3 +5,15 @@ Vi realiserar våra kunders affärsmål genom implementation av lösningar i så
 
 #### Användning av denna plats
 Denna plats används i huvudsak av personal från Knowit. Innehållet kan både vara av både publik och privat karaktär.
+
+#### Namngivning av repositories
+Använd detta mönster vid namngivning:
+
+```[företagsnamn]-[produkt eller projektnamn]-[beskrivning av kod om det behövs]```
+
+Exempel:
+```
+forsakringar-behovsguiden-frontend  
+forsakringar-behovsguiden-backend  
+knowit-bankid 
+```
